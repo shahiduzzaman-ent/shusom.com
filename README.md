@@ -1,1 +1,1 @@
-# shusom.com
+# com
